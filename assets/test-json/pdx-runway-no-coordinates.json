@@ -1,0 +1,19 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    
+                ],
+                "type": "Polygon"
+            },
+            "id": "02d9c0c06ea57a35f8074be94fc77a1d",
+            "properties": {
+            	"name": "Rectangle around a runway.",
+            	"numberOfPoints": 4
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
